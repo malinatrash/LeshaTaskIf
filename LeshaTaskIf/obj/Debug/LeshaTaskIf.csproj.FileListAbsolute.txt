@@ -1,0 +1,6 @@
+/Users/malinatrash/Desktop/LeshaTaskIf/LeshaTaskIf/obj/Debug/LeshaTaskIf.csproj.AssemblyReference.cache
+/Users/malinatrash/Desktop/LeshaTaskIf/LeshaTaskIf/obj/Debug/LeshaTaskIf.csproj.CoreCompileInputs.cache
+/Users/malinatrash/Desktop/LeshaTaskIf/LeshaTaskIf/bin/Debug/LeshaTaskIf.exe
+/Users/malinatrash/Desktop/LeshaTaskIf/LeshaTaskIf/bin/Debug/LeshaTaskIf.pdb
+/Users/malinatrash/Desktop/LeshaTaskIf/LeshaTaskIf/obj/Debug/LeshaTaskIf.exe
+/Users/malinatrash/Desktop/LeshaTaskIf/LeshaTaskIf/obj/Debug/LeshaTaskIf.pdb
